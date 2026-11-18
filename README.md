@@ -49,7 +49,7 @@
 <td align="center">
 <a href="YOUR_TIKTOK_LINK">
 <img src="https://media.discordapp.net/attachments/1357086825373761618/1572617355463237793/tumblr_48e0aa4615003219edbd298f32526403_084e1d8a_1280.png?ex=6aff058b&is=6afdb40b&hm=5b98b0b2aa7dadd8ce17d79a05a6289a71fca9b0773c4e049652d1df38dd3f24&format=webp&quality=lossless&width=449&height=448" width="200"><br>
-𝒕𝓲𝑘𝓽ℴ𝓴
+꒰ 𝒕𝓲𝑘𝓽ℴ𝓴 ꒱
 </a>
 </td>
 
@@ -63,7 +63,7 @@
 <td align="center">
 <a href="YOUR_STRAWPAGE_LINK">
 <img src="https://media.discordapp.net/attachments/1357086825373761618/1572617357988331620/tumblr_a5e1ea6ed5354400b5c631ff5e136353_e5191389_640.webp?ex=6aff058b&is=6afdb40b&hm=c756e4038859424aee2ac430dd5a46b961c3b94ab71975bf0d23f8d839e2ee88&animated=true&width=431&height=448" width="180"><br>
-𝓼𝒕𝓇𝒂𝔀
+꒰ 𝓼𝒕𝓇𝒂𝔀 ꒱
 </a>
 </td>
 </tr>
