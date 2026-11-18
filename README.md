@@ -75,3 +75,5 @@
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1357086825373761618/1572617353324273795/tumblr_36c32e6cc6d06719d0a8f19a1a72cd7e_4a11c517_640.png?ex=6aff058a&is=6afdb40a&hm=f31dc3e6665f3e82aa7006acde8f7ea42836ad0b67c8214672c4fe8e68c590cd&format=webp&quality=lossless" width="180%">
 </div>
+
+this is a wip bc im a fat chud ok bye
