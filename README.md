@@ -49,7 +49,7 @@
 <td align="center">
 <a href="YOUR_TIKTOK_LINK">
 <img src="https://media.discordapp.net/attachments/1357086825373761618/1572617355463237793/tumblr_48e0aa4615003219edbd298f32526403_084e1d8a_1280.png?ex=6aff058b&is=6afdb40b&hm=5b98b0b2aa7dadd8ce17d79a05a6289a71fca9b0773c4e049652d1df38dd3f24&format=webp&quality=lossless&width=449&height=448" width="200"><br>
-꒰ 𝒕𝓲𝑘𝓽ℴ𝓴 ꒱
+꒰ 𝓹𝒍𝒂𝐜ꫀ𝓱ℴ𝒍𝒹ꫀ𝐫 ꒱
 </a>
 </td>
 
