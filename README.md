@@ -61,7 +61,7 @@
 </td>
 
 <td align="center">
-<a href="YOUR_STRAWPAGE_LINK">
+<a href=https://sirveyr.straw.page>
 <img src="https://media.discordapp.net/attachments/1357086825373761618/1572617357988331620/tumblr_a5e1ea6ed5354400b5c631ff5e136353_e5191389_640.webp?ex=6aff058b&is=6afdb40b&hm=c756e4038859424aee2ac430dd5a46b961c3b94ab71975bf0d23f8d839e2ee88&animated=true&width=431&height=448" width="180"><br>
 ꒰ 𝓼𝒕𝓇𝒂𝔀 ꒱
 </a>
