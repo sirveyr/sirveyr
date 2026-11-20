@@ -5,10 +5,10 @@
 </div>
 
 <!-- CHARACTER -->
-<img align="right" width="200" src="https://media.discordapp.net/attachments/1357086825373761618/1572617355950031039/tumblr_0cd6e5a16affc745e7cd83405f7fe621_1ac6f0a9_1280.webp?ex=6aff058b&is=6afdb40b&hm=e9e221866ffa3197096e7be890016494c9e6218d2ff15c944db6340c3947e3f8&animated=true&width=449&height=448">
+<img align="right" width="300" src="https://media.discordapp.net/attachments/1357086825373761618/1572617355950031039/tumblr_0cd6e5a16affc745e7cd83405f7fe621_1ac6f0a9_1280.webp?ex=6aff058b&is=6afdb40b&hm=e9e221866ffa3197096e7be890016494c9e6218d2ff15c944db6340c3947e3f8&animated=true&width=449&height=448">
 
 <!-- BIO BOX -->
-<table width="300">
+<table width="200">
 <tr>
 <td align="center">
 
